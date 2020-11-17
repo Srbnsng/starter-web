@@ -11,3 +11,7 @@ THE PURPOSE IS TO LOVE
 ## Deployment
 
 Here we tell storyes about knights and faeries
+
+## Copyright
+
+Its my personal work here ok?
