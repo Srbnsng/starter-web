@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Hello WORLD !!!!!!!!!
+What a great day@
 
 ## Purpose
 
